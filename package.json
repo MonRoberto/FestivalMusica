@@ -1,0 +1,24 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MonRoberto/FestivalMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "Roberto Quiroz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MonRoberto/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/MonRoberto/FestivalMusica#readme"
+}
