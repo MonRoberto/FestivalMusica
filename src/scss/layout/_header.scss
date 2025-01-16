@@ -43,11 +43,13 @@
         color: v.$blanco;
         font-size: 2.4rem;
 
-        &:hover {
+        &:hover,
+        &.active {
             color: v.$amarillo;
         }
     }
 }
+
 
 // @mixin contenedor {
 //     width: 95%;
